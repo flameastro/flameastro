@@ -1,5 +1,3 @@
-deixe esse readme principal mais completo e com o melhor design e estetica
-
 # 🌌 FlameSec
 
 <p align="center">
