@@ -37,10 +37,8 @@
 
 
 ## 🌟 Projetos em Destaque
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=flameastro&repo=Ghost-Fly&theme=tokyonight)](https://github.com/flameastro/Ghost-Fly)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=flameastro&repo=neutrum-social&theme=tokyonight)](https://github.com/flameastro/neutrum-social)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=flameastro&repo=coin-catcher&theme=tokyonight)](https://github.com/flameastro/coin-catcher)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=flameastro&repo=blog&theme=tokyonight)](https://github.com/flameastro/blog)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=flameastro&repo=EXERCICIOS&theme=tokyonight)](https://github.com/flameastro/EXERCICIOS)
----
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=flameastro&repo=Ghost-Fly&theme=tokyonight&cache_seconds=0)](https://github.com/flameastro/Ghost-Fly)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=flameastro&repo=neutrum-social&theme=tokyonight&cache_seconds=0)](https://github.com/flameastro/neutrum-social)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=flameastro&repo=coin-catcher&theme=tokyonight&cache_seconds=0)](https://github.com/flameastro/coin-catcher)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=flameastro&repo=blog&theme=tokyonight&cache_seconds=0)](https://github.com/flameastro/blog)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=flameastro&repo=EXERCICIOS&theme=tokyonight&cache_seconds=0)](https://github.com/flameastro/EXERCICIOS)
