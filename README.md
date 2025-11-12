@@ -5,7 +5,7 @@
 ## 👨‍🚀 Sobre Mim
 - ❤️ Apaixonado por Programação, Astronomia e Cibersegurança
 - 🔭 Observando planetas e explorando o universo
-- 📖 Estudando atualmente Python, JavaScript e Algoritmos
+- 📖 Estudando atualmente Desenvolvimento Web [HTML5, CSS3 e JavaScript]
 - 💡 Sempre curioso e em busca de novas tecnologias
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=00ff00)&nbsp;
