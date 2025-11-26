@@ -1,16 +1,30 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6889E2&height=120&section=header"/>
+<div align="center">
+  <img src="https://octodex.github.com/images/securitocat.png" alt="SecuritOcat Image" width="275">
+</div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=01BAEF&size=50&center=true&vCenter=true&width=1000&lines=Bem-vindo+ao+meu+perfil!;❤️+Programação;❤️+Astronomia;❤️+Cibersegurança&font=Cascadia+Code)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1f6feb&size=50&center=true&vCenter=true&width=1000&lines=Hello+👋🏻,+I+am+Gabriel+Goulart;I+love+the+Web❤️🌐;My+dream+is+cybersecurity🥷🏻&font=Cascadia+Code)](https://git.io/typing-svg)
 
-## 👨‍🚀 Sobre Mim
-- ❤️ Apaixonado por Programação, Astronomia e Cibersegurança
-- 🔭 Observando planetas e explorando o universo
-- 📖 Estudando atualmente Desenvolvimento Web [HTML5, CSS3 e JavaScript]
-- 💡 Sempre curioso e em busca de novas tecnologias
+# About Me
+> My name is *Gabriel Goulart*🙋🏻, I'm *15 years old*⌚ and I'm from *Brazil*🇧🇷. I love **exploring the web**, and that's why I wanted to learn **HTML and CSS**. I already have some experience with **JavaScript and Python**, but now I've decided to focus on **web development**, at least for now.
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=00ff00)&nbsp;
+> But, in addition to web development, I'd like to be a pentester - I love the idea that a professional can protect vulnerabilities before malicious individuals exploit them.
+
+
+## More
+> [!NOTE]
+> A little more about me
+
+> 🌱 I’m currently Working on Web Development  
+> 🤝 I’m available for freelancing  
+> 🚀 I’m currently learning HTML & CSS  
+
+---
+
+## My Stack
+
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=00ff00)&nbsp;
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
@@ -28,17 +42,5 @@
 
 ---
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=flameastro&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="flameastro github stats"/> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flameastro&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
-</div>
-
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=flameastro&theme=github-dark&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-
-## 🌟 Projetos em Destaque
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=flameastro&repo=Ghost-Fly&theme=tokyonight&cache_seconds=0)](https://github.com/flameastro/Ghost-Fly)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=flameastro&repo=neutrum-social&theme=tokyonight&cache_seconds=0)](https://github.com/flameastro/neutrum-social)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=flameastro&repo=coin-catcher&theme=tokyonight&cache_seconds=0)](https://github.com/flameastro/coin-catcher)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=flameastro&repo=blog&theme=tokyonight&cache_seconds=0)](https://github.com/flameastro/blog)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=flameastro&repo=EXERCICIOS&theme=tokyonight&cache_seconds=0)](https://github.com/flameastro/EXERCICIOS)
