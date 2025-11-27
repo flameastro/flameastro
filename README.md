@@ -1,33 +1,69 @@
 <div align="center">
-  <img src="https://octodex.github.com/images/securitocat.png" alt="SecuritOcat Image" width="275">
+
+  <img src="https://octodex.github.com/images/securitocat.png" alt="SecuritOcat" width="180"/>
+  <br><br>
+
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1f6feb&size=40&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Gabriel+Goulart;Aspiring+Pentester+🥷🏻;Web+Development+❤️🌐;15+y/o+from+Brazil+🇧🇷)
+
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=flameastro&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=flameastro&theme=github_dark&hide_border=true" alt="GitHub Streak"/>
+  </div>
+
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flameastro&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages"/>
+  </div>
+
+  <br>
+
+  <img src="https://github-profile-trophy.vercel.app/?username=flameastro&theme=github_dark&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
+
 </div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1f6feb&size=50&center=true&vCenter=true&width=1000&lines=Hello+👋🏻,+I+am+Gabriel+Goulart;I+love+the+Web❤️🌐;My+dream+is+cybersecurity🥷🏻&font=Cascadia+Code)](https://git.io/typing-svg)
+# 👨🏻‍💻 About Me
 
-# About Me
-> My name is *Gabriel Goulart*🙋🏻, I'm *15 years old*⌚ and I'm from *Brazil*🇧🇷. I love **exploring the web**, and that's why I wanted to learn **HTML and CSS**. I already have some experience with **JavaScript and Python**, but now I've decided to focus on **web development**, at least for now.
+**Gabriel Goulart** • 15 y/o • Brazil 🇧🇷
 
-> But, in addition to web development, I'd like to be a pentester - I love the idea that a professional can protect vulnerabilities before malicious individuals exploit them.
+> Passionate about technology, cybersecurity, and web development.  
+> My goal is to become a **pentester/ethical hacker** and help build a safer digital ecosystem while creating modern, functional web projects.
 
+🌱 Currently deepening my knowledge in **HTML, CSS, JavaScript** and cybersecurity fundamentals  
+🤝 Available for front-end freelancing and small web projects  
+🔍 Currently exploring the fascinating world of the web  
+⚡ Fun fact: I started my programming journey at just 14 years old
 
-## More
-> [!NOTE]
-> A little more about me
+## 🛠️ Tech Stack
 
-> 🌱 I’m currently Working on Web Development  
-> 🤝 I’m available for freelancing  
-> 🚀 I’m currently learning HTML & CSS  
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
+![JavaScript](https://skillicons.dev/icons?i=js)
+![Python](https://skillicons.dev/icons?i=python)
 
----
+## 🧰 Tools I Use
 
-## 𝗠𝘆 𝗦𝘁𝗮𝗰𝗸 📚
+![VSCode](https://skillicons.dev/icons?i=vscode)
+![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://skillicons.dev/icons?i=github)
+![Windows](https://skillicons.dev/icons?i=windows)
+![Figma](https://skillicons.dev/icons?i=figma)
+![Discord](https://skillicons.dev/icons?i=discord)
 
-![Tech Stack](https://skillicons.dev/icons?i=html,css,javascript,python)
+## 🔗 Connect With Me
 
-## 𝗧𝗼𝗼𝗹𝘀 ⚒️
-![Tools](https://skillicons.dev/icons?i=vscode,git,github,windows,stackoverflow,discord,md)
+<div align="center">
+  <a href="mailto:gabrielgoulartbnu@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://discord.com/users/1416505567026876527">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
+</div>
 
----
+<div align="center">
+  <br>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=flameastro&theme=github-dark&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=flameastro&color=1f6feb&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
+</div>
