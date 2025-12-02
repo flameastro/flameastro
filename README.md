@@ -32,6 +32,17 @@
 🔍 Currently exploring the fascinating world of the web  
 ⚡ Fun fact: I started my programming journey at just 14 years old
 
+``` json
+{
+    "name": "Gabriel Goulart",
+    "pronouns": "He/Him",
+    "title": "Web Developer",
+    "focus": "HTML & CSS [Front-End]",
+    "currently": "Creating Websites",
+    "learning": "CSS (FlexBox)"
+}
+```
+
 ## 🛠️ Tech Stack
 
 ![HTML](https://skillicons.dev/icons?i=html)
@@ -47,17 +58,6 @@
 ![Windows](https://skillicons.dev/icons?i=windows)
 ![Figma](https://skillicons.dev/icons?i=figma)
 ![Discord](https://skillicons.dev/icons?i=discord)
-
-## 🔗 Connect With Me
-
-<div align="center">
-  <a href="mailto:gabrielgoulartbnu@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://discord.com/users/1416505567026876527">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
-  </a>
-</div>
 
 <div align="center">
   <br>
