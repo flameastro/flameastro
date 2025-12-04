@@ -27,7 +27,7 @@
 > Passionate about technology, cybersecurity, and web development.  
 > My goal is to become a **pentester/ethical hacker** and help build a safer digital ecosystem while creating modern, functional web projects.
 
-🌱 Currently deepening my knowledge in **HTML, CSS, JavaScript** and cybersecurity fundamentals  
+🌱 Currently deepening my knowledge in **HTML & CSS**  
 🤝 Available for front-end freelancing and small web projects  
 🔍 Currently exploring the fascinating world of the web  
 ⚡ Fun fact: I started my programming journey at just 14 years old
@@ -39,7 +39,7 @@
     "title": "Web Developer",
     "focus": "HTML & CSS [Front-End]",
     "currently": "Creating Websites",
-    "learning": "CSS (FlexBox)"
+    "learning": "CSS (Grid Layout)"
 }
 ```
 
