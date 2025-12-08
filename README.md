@@ -39,7 +39,7 @@
     "title": "Web Developer",
     "focus": "HTML & CSS [Front-End]",
     "currently": "Creating Websites",
-    "learning": "CSS (Grid Layout)"
+    "learning": "Overview of study"
 }
 ```
 
