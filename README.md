@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://octodex.github.com/images/securitocat.png" alt="SecuritOcat" width="180"/>
+  <img src="https://avatars.githubusercontent.com/u/230046877?v=4" alt="flameastro GitHub profile" width="180"/>
   <br><br>
 
   ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1f6feb&size=40&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Gabriel+Goulart;Aspiring+Pentester+🥷🏻;Web+Development+❤️🌐;15+y/o+from+Brazil+🇧🇷)
