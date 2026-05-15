@@ -37,9 +37,9 @@
     "name": "Gabriel Goulart",
     "pronouns": "He/Him",
     "title": "Web Developer",
-    "focus": "Logic",
-    "currently": "Portugol",
-    "learning": "Growing my programming logic with Portugol"
+    "focus": "Algorithms",
+    "currently": "Practicing Algorithms",
+    <!-- "learning": "Just Practicing" -->
 }
 ```
 
