@@ -37,9 +37,7 @@
     "name": "Gabriel Goulart",
     "pronouns": "He/Him",
     "title": "Web Developer",
-    "focus": "Algorithms",
-    "currently": "Practicing Algorithms",
-    <!-- "learning": "Just Practicing" -->
+    "focus": "Learning JavaScript",
 }
 ```
 
