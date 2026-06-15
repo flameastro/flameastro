@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://avatars.githubusercontent.com/u/230046877?v=4" alt="flameastro GitHub profile" width="180"/>
+  <img src="https://avatars.githubusercontent.com/u/230046877" alt="flameastro GitHub profile" width="360"/>
   <br><br>
 
   ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1f6feb&size=40&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Gabriel+Goulart;Aspiring+Pentester+🥷🏻;Web+Development+❤️🌐;15+y/o+from+Brazil+🇧🇷)
@@ -22,22 +22,19 @@
 
 # 👨🏻‍💻 About Me
 
-**Gabriel Goulart** • 15 y/o • Brazil 🇧🇷
+**Gabriel Goulart** • 16 y/o • Brazil 🇧🇷
 
-> Passionate about technology, cybersecurity, and web development.  
-> My goal is to become a **pentester/ethical hacker** and help build a safer digital ecosystem while creating modern, functional web projects.
+I'm currently learning JavaScript, and then i'm going to learn React. Studying hard 8 hours per day, I want to be a **Full Stack** Developer (to get experience).  
+Actually, my real dream is become a **Pentester**/**Ethical Hacker**. When I was 12yo, I heard about programming and this gives me a strong passion.  
+It took me a long way to just start with programming. I commit a bunch of typical errors (like tutorial hell, wrong path) and after 3 years of experience (without job), I'm learning in the right way.  
 
-🌱 Currently deepening my knowledge in **Logic**  
-🤝 Available for front-end freelancing and small web projects  
-🔍 Currently exploring the fascinating world of the web  
-⚡ Fun fact: I started my programming journey at just 14 years old
 
 ``` json
 {
     "name": "Gabriel Goulart",
     "pronouns": "He/Him",
-    "title": "Web Developer",
-    "focus": "Learning JavaScript",
+    "focus": "JavaScript",
+    "nextStep": "React"
 }
 ```
 
