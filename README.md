@@ -3,7 +3,7 @@
   <img src="https://avatars.githubusercontent.com/u/230046877" alt="flameastro GitHub profile" width="360"/>
   <br><br>
 
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1f6feb&size=40&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Gabriel+Goulart;Aspiring+Pentester+🥷🏻;Web+Development+❤️🌐;15+y/o+from+Brazil+🇧🇷)
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1f6feb&size=40&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Gabriel+Goulart;Aspiring+Pentester+🥷🏻;Web+Development+❤️🌐;16+y/o+from+Brazil+🇧🇷)
 
   <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=flameastro&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
@@ -33,8 +33,8 @@ It took me a long way to just start with programming. I commit a bunch of typica
 {
     "name": "Gabriel Goulart",
     "pronouns": "He/Him",
-    "focus": "JavaScript",
-    "nextStep": "React"
+    "focus": "React",
+    "nextStep": "Another FrameWork or BackEnd [Not planned yet]"
 }
 ```
 
