@@ -51,25 +51,7 @@ Besides programming, I enjoy learning about:
 
 ---
 
-<div align="center">
-  
-## 📊 GitHub Stats
-
-<!-- 
-Has moved from 
-https://github-readme-stats.vercel.app/
-to
-+ https://github-stats-extended.vercel.app/
-
-Find the repository in: https://github.com/stats-organization/github-stats-extended
-
--->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=flameastro&theme=github_dark&hide_border=true" alt="GitHub Streak"/>  
-<br><br>
-<img src="https://github-stats-extended.vercel.app/api?username=flameastro&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/> 
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=flameastro&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages"/>
-
-</div>
+## ✉️ Contact Me
 
 <div align="center">
 
@@ -78,6 +60,40 @@ Find the repository in: https://github.com/stats-organization/github-stats-exten
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://reddit.com/u/flame77ofc)
 
 `flameastrogithub@gmail.com` • `astrusflame` • `u/flame77ofc`
+
+</div>
+
+<div align="center">
+
+<details>
+<summary><b>📊 GitHub Stats</b></summary>
+
+<br>
+
+<!--
+Has moved from
+https://github-readme-stats.vercel.app/
+to
+https://github-stats-extended.vercel.app/
+
+Find the repository in:
+https://github.com/stats-organization/github-stats-extended
+-->
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=flameastro&theme=github_dark&hide_border=true" alt="GitHub Streak"/>
+
+<br><br>
+
+<img src="https://github-stats-extended.vercel.app/api?username=flameastro&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=flameastro&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages"/>
+
+<br><br>
+
+<img src="./profile-3d-contrib/profile-night-green.svg" />
+
+</details>
+
 </div>
 
 <div align="center">
