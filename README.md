@@ -17,6 +17,15 @@ I'm 16 years old and I'm from Brazil 🇧🇷.
 
 I've been coding since I was 12. I currently work with **HTML, CSS, JavaScript, Python, and React**, and I'm interested in **low-level programming, cybersecurity, pentesting, and full-stack development**.
 
+### 🌱 Interests
+
+Besides programming, I enjoy learning about:
+- 🔐 Cybersecurity, logic, and problem solving
+- 🏛️ Ancient history, especially Ancient Egypt
+- ✝️ Religious traditions such as Christianity, Buddhism, and Hinduism
+- 👁️ Occultism, Hermeticism, symbolism, ancient philosophical traditions, and groups like Freemasonry
+- 📚 Theology, philosophy, and different religious traditions
+
 ---
 
 ## 🚀 Stack
