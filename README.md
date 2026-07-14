@@ -20,7 +20,6 @@ I've been coding since I was 12. I currently work with **HTML, CSS, JavaScript, 
 ---
 
 ## 🚀 Stack
-
 ![HTML](https://skillicons.dev/icons?i=html)
 ![CSS](https://skillicons.dev/icons?i=css)
 ![JavaScript](https://skillicons.dev/icons?i=js)
@@ -28,11 +27,16 @@ I've been coding since I was 12. I currently work with **HTML, CSS, JavaScript, 
 ![React](https://skillicons.dev/icons?i=react)
 ![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
 ![NodeJS](https://skillicons.dev/icons?i=nodejs)
+
+## 🔧 Tools
 ![Git](https://skillicons.dev/icons?i=git)
 ![GitHub](https://skillicons.dev/icons?i=github)
 ![VSCode](https://skillicons.dev/icons?i=vscode)
-![Godot](https://skillicons.dev/icons?i=godot)
+![Linux](https://skillicons.dev/icons?i=linux)
 ![Windows](https://skillicons.dev/icons?i=windows)
+![Godot](https://skillicons.dev/icons?i=godot)
+
+## 🌐 Communities
 ![Discord](https://skillicons.dev/icons?i=discord)
 ![StackOverflow](https://skillicons.dev/icons?i=stackoverflow)
 
@@ -66,8 +70,6 @@ Find the repository in: https://github.com/stats-organization/github-stats-exten
 
 `flameastrogithub@gmail.com` • `astrusflame` • `u/flame77ofc`
 </div>
-
----
 
 <div align="center">
 <!-- Gifs get in:
