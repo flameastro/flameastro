@@ -58,6 +58,15 @@ Find the repository in: https://github.com/stats-organization/github-stats-exten
 
 </div>
 
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:flameastrogithub@gmail.com)
+![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://reddit.com/u/flame77ofc)
+
+`flameastrogithub@gmail.com` • `astrusflame` • `u/flame77ofc`
+</div>
+
 ---
 
 <div align="center">
