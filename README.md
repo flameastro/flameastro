@@ -101,6 +101,15 @@ Find the repository in: https://github.com/stats-organization/github-stats-exten
 <img src="assets/gifs/perfect-loop.gif">
 <!-- https://private-user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODM5ODA5MjUsIm5iZiI6MTc4Mzk4MDYyNSwicGF0aCI6Ii83NDAzODE5MC8yNDIzOTA1MjQtMGM3ZWI2ZWQtNjYzYi00Y2U0LWJmYmQtMTgyMzlhMzhiYTFiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA3MTMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNzEzVDIyMTAyNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWY3MmQzNDdjYzkwYmQ2MTk2MWI4MDczOTQ1MjViYjkyYmVhYTRkNGQ4MWExNjVhZjhlYjQ4OTdjZjdkNDZhNjImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRmdpZiJ9.A9jPJgpK0yxyI4FdS_fYGwbMKS6LT8qMqVjaVKXS634 -->
 
+<img src="assets/gifs/typing-code.gif">
+<!-- https://raw.githubusercontent.com/scriptype/scriptype/master/scriptype.gif -->
+
+<img src="assets/gifs/octo.gif">
+<!-- https://github.com/raghavk16/raghavk16/blob/master/octo.gif -->
+
+<img src="assets/gifs/octo-swim.gif">
+<!-- https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif -->
+
 ## Night Chill
 <img src="assets/gifs/night-chill.gif">
 <!-- https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif -->
