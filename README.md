@@ -115,19 +115,36 @@ https://github.com/stats-organization/github-stats-extended
 <summary><strong>🎬 My Favorite Assets</strong></summary>
 
 <img src="assets/gifs/awesome-octocat.gif">
+
 <img src="assets/gifs/chill-ball-playing.gif">
+
 <img src="assets/gifs/chill-guy-playing.gif">
+
 <img src="assets/gifs/chill-house.gif">
+
 <img src="assets/gifs/computer.gif">
+
 <img src="assets/gifs/late-chill-guy-coding.gif">
+
 <img src="assets/gifs/mario.gif">
+
 <img src="assets/gifs/robot-accessing-computer.gif">
+
 <img src="assets/gifs/robot-working.gif">
+
 <img src="assets/gifs/robot-world.gif">
+
 <img src="assets/gifs/switch-colors.gif">
+
 <img src="assets/gifs/terminal.gif">
+
 <img src="assets/gifs/tired-guy.gif">
-<img src="assets/gifs/typing-code.gif">
+
+<img src="assets/gifs/christmas.gif">
+
+<img src="assets/gifs/robot-playing-video-game.gif">
+
+<img src="assets/gifs/beautiful-world.gif">
 
 </details>
 </div>
