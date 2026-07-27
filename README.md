@@ -43,7 +43,7 @@ Besides programming, I enjoy learning about:
 ![VSCode](https://skillicons.dev/icons?i=vscode)
 ![Linux](https://skillicons.dev/icons?i=linux)
 ![Windows](https://skillicons.dev/icons?i=windows)
-![Godot](https://skillicons.dev/icons?i=godot)
+![Obsidian](https://skillicons.dev/icons?i=obsidian)
 
 ## 🌐 Communities
 ![Discord](https://skillicons.dev/icons?i=discord)
