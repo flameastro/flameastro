@@ -45,20 +45,11 @@ Besides programming, I enjoy learning about:
 ![Windows](https://skillicons.dev/icons?i=windows)
 ![Obsidian](https://skillicons.dev/icons?i=obsidian)
 
-## 🌐 Communities
-![Discord](https://skillicons.dev/icons?i=discord)
-![StackOverflow](https://skillicons.dev/icons?i=stackoverflow)
-
----
-
 ## ✉️ Contact Me
 
 <div align="center">
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:flameastrogithub@gmail.com)
-![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
-
-`flameastrogithub@gmail.com` • `astrusflame`
 
 </div>
 
