@@ -1,7 +1,5 @@
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1f6feb&size=40&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Gabriel+Goulart;Aspiring+Pentester+🥷🏻;Web+Development+❤️🌐;16+y/o+from+Brazil+🇧🇷)
-
 <img src="https://komarev.com/ghpvc/?username=flameastro&color=1f6feb&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=flameastro&theme=github-dark&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
@@ -11,7 +9,7 @@
 
 ## 👤 About Me
 
-Hi, I'm **Gabriel** 👋
+Hi, I'm **Flame** 👋
 
 I'm 16 years old and I'm from Brazil 🇧🇷.
 
