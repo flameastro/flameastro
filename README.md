@@ -2,7 +2,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=flameastro&color=1f6feb&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
 
-[![Ashutosh's github activity graph](https://raw.githubusercontent.com/flameastro/flameastro/output/activity-graph.svg)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![flameastro github activity graph](https://raw.githubusercontent.com/flameastro/flameastro/output/activity-graph.svg)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </div>
 
 ---
