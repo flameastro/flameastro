@@ -31,9 +31,7 @@ Besides programming, I enjoy learning about:
 ![CSS](https://skillicons.dev/icons?i=css)
 ![JavaScript](https://skillicons.dev/icons?i=js)
 ![Python](https://skillicons.dev/icons?i=python)
-![React](https://skillicons.dev/icons?i=react)
-![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
-![NodeJS](https://skillicons.dev/icons?i=nodejs)
+![C](https://skillicons.dev/icons?i=c)
 
 ## 🔧 Tools
 ![Git](https://skillicons.dev/icons?i=git)
